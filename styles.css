@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.recipes a,
+.text,
+#home_button a {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#home_button a {
+    font-size: 24px;
+    color: blue;
+}
+
+div.recipes,
+h1,
+.homepage_food,
+.recipe_image,
+.text h2
+{
+    text-align: center;
+}
+
+.homepage_food {
+    width: auto;
+    height: 800px;
+}
+
+.homepage_food #food {
+    width: auto;
+    height: 100%;
+}
+
+.recipe_image img {
+    width: auto;
+    height: 600px;
+}
